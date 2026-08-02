@@ -1,5 +1,5 @@
 
 
-
-print("Hi!+1")
+a = 1+1;
+print(a)
 print("Helloo!+1")
